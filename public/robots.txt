@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Dont try to fuck here nothing is available
